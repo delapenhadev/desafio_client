@@ -1,0 +1,10 @@
+INSERT INTO tb_client (name,cpf,income,birth_date,children) VALUES ('Adevaldo Costa','100.200.400-20',650.00,'1981-07-05',1);
+INSERT INTO tb_client (name,cpf,income,birth_date,children) VALUES ('Alessandro Penha','350.200.400-20',650.00,'1981-07-05',2);
+INSERT INTO tb_client (name,cpf,income,birth_date,children) VALUES ('Neto Penha','750.200.400-20',650.00,'1981-07-05',3);
+INSERT INTO tb_client (name,cpf,income,birth_date,children) VALUES ('Ademar Costa','850.200.400-20',650.00,'1981-07-05',3);
+INSERT INTO tb_client (name,cpf,income,birth_date,children) VALUES ('Marinete Penha','150.200.400-20',650.00,'1981-07-05',3);
+INSERT INTO tb_client (name,cpf,income,birth_date,children) VALUES ('Madda Helena','005.200.400-20',650.00,'1981-07-05',0);
+INSERT INTO tb_client (name,cpf,income,birth_date,children) VALUES ('Alessandro Lima','250.750.400-20',650.00,'1981-07-05',1);
+INSERT INTO tb_client (name,cpf,income,birth_date,children) VALUES ('Marcos Paulo','220.200.400-20',650.00,'1981-07-05',1);
+INSERT INTO tb_client (name,cpf,income,birth_date,children) VALUES ('Zilmar Andrade','850.200.700-20',650.00,'1981-07-05',0);
+INSERT INTO tb_client (name,cpf,income,birth_date,children) VALUES ('Cosmos SIlva','175.200.350-20',650.00,'1981-07-05',5);
